@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraIf", "..\Calcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimeAbecedario", "..\ImprimeAbecedario\ImprimeAbecedario.csproj", "{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionesVarias", "..\AplicacionesVarias\AplicacionesVarias.csproj", "{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
