@@ -2,7 +2,7 @@
 
 internal class Calculadora
 {
-    public static void Main(string[] args)
+    public virtual void calcula(string[] args)
     {
         Console.WriteLine("Selecciona la opción de tu preferencia:");
         Console.WriteLine("1. Suma");

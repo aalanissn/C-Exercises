@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.InteropServices;
 
 
 public class ProgramasVarios
@@ -37,16 +38,16 @@ public class ProgramasVarios
                 Console.WriteLine("Ingresa una opción válida");
             }
         }
+        class calculadoraSwift
+    {
+        static void Main() {
 
-        switch (accesoapp)
-        {
-            
-
-
-
-        }
-
-
+            calculadoraSwift calculadora = new calculadoraSwift();
+            Console.WriteLine("Seleccionaste Calculador");
+            calculadora.();
     }
+
+
+
 }
     
