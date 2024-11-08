@@ -9,7 +9,7 @@ namespace AplicacionesVarias
      class calculadoraSwift
     {
 
-        public static void Main(string[] args)
+        public static void calculadora(string[] args)
         {
             Console.WriteLine("Selecciona la opción de tu preferencia:");
             Console.WriteLine("1. Suma");
