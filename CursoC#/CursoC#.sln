@@ -3,13 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoC#", "CursoC#.csproj", "{AD9F14C1-CF64-4438-A31B-5C41225BC371}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraIf", "..\CalculadoraIf\CalculadoraIf.csproj", "{3A30CB37-18EF-4434-BDBB-2E238B5F669B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimeAbecedario", "..\ImprimeAbecedario\ImprimeAbecedario.csproj", "{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicacionesVarias", "..\AplicacionesVarias\AplicacionesVarias.csproj", "{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AplicacionesVarias", "..\AplicacionesVarias\AplicacionesVarias.csproj", "{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,18 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AD9F14C1-CF64-4438-A31B-5C41225BC371}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD9F14C1-CF64-4438-A31B-5C41225BC371}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD9F14C1-CF64-4438-A31B-5C41225BC371}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD9F14C1-CF64-4438-A31B-5C41225BC371}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A30CB37-18EF-4434-BDBB-2E238B5F669B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A30CB37-18EF-4434-BDBB-2E238B5F669B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A30CB37-18EF-4434-BDBB-2E238B5F669B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A30CB37-18EF-4434-BDBB-2E238B5F669B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8EB60A0-F8F3-4C6A-9DB2-DF98D887EF12}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64F1D02A-2CAD-4F8C-B7F4-17E80781785B}.Release|Any CPU.ActiveCfg = Release|Any CPU
