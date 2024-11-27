@@ -92,8 +92,8 @@ namespace AplicacionesVarias
                     Console.WriteLine($"Seleccionaste la opción {accesoapp}");
                     ProductosTienda();
                     break;
-                default:
-                    Console.WriteLine("Opción no implementada.");
+                case 12:
+                    Console.WriteLine($"Seleccionaste la opción {accesoapp}");
                     break;
             }
         }
@@ -495,6 +495,13 @@ namespace AplicacionesVarias
             }
 
 
+        }
+
+        static void opción12()
+        { 
+                 int columnas = 3;
+                 int filas = 0;
+        
         }
     }
 }
